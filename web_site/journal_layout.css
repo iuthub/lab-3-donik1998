@@ -1,0 +1,64 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("https://stemlatina.com/wp-content/uploads/2013/07/damask-in-purple-design.jpg");
+    background-position: center;
+    background-repeat: repeat;
+}
+
+.container {
+    border: red 5px solid;
+    padding: 10px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: white;
+    width: 80%;
+    height: 90%;
+    border: white 10px solid;
+    
+}
+
+
+
+.article{
+    border: aqua 5px solid;  
+    background-color: #E8FBFB;    
+    padding: 5px; 
+    margin-top: 10px;
+    border: #C2E9E9 4px solid;
+    overflow: hidden;
+}
+
+.title span{
+    border-bottom: blue 2px dashed;   
+}
+
+.header h2{
+    font-size: 14pt;
+}
+
+.header{
+    background-color: #A8F0F0;
+    text-align: right;
+}
+
+.thumbnail{  
+    float: right;
+}
+
+
+
+.main{
+    overflow: hidden;
+}
+
+.sidebar{
+    width: 15%;
+    float: left;
+    height: 100%;
+    border: #009097 5px solid;
+    padding: 10px;
+    margin: 10px;
+    background-color: #99E0E0;
+}
