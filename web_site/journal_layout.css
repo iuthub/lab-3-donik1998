@@ -19,8 +19,6 @@ body{
     
 }
 
-
-
 .article{
     border: aqua 5px solid;  
     background-color: #E8FBFB;    
@@ -46,8 +44,6 @@ body{
 .thumbnail{  
     float: right;
 }
-
-
 
 .main{
     overflow: hidden;
